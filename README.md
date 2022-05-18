@@ -9,11 +9,11 @@
 ## Features
 ⚡️ Connect your Solana wallet \
 ⚡️ Add Gifs to Private Marketplace \
-⚡️ Full Responsive \
+⚡️ Full Responsive
 
 note: small transaction fee for every Gif added
 
-To view the demo: **[click here](https://the-simplefolio.netlify.app/](https://solana-gif-marketplace.vercel.app/)**
+To view the demo: **[click here](https://solana-gif-marketplace.vercel.app/)**
 
 ---
 ### Prerequisites 📋
