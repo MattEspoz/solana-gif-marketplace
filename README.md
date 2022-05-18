@@ -1,16 +1,26 @@
-# buildspace Solana GIF Portal Project
+# Solana Gif Marketplace ⚡️
 
-### **Welcome 👋**
-To get started with this course, clone this repo and follow these commands:
+## Minimal Gif Marketplace Built on Solana
+<h2 align="center">
+  <img src="https://github.com/MattEspoz/solana-gif-marketplace/blob/718902ef7f3ea60211015d8eb07e55b0ae2a1487/src/assets/GifDemo.gif" alt="Solana Gif Marketplace" width="600px" />
+  <br>
+</h2>
 
-1. Run `npm install` at the root of your directory
-2. Run `npm run start` to start the project
-3. Start coding!
+## Features
+⚡️ Connect your Solana wallet \
+⚡️ Add Gifs to Private Marketplace \
+⚡️ Full Responsive \
 
-### **What is the .vscode Folder?**
-If you use VSCode to build your app, we included a list of suggested extensions that will help you build this project! Once you open this project in VSCode, you will see a popup asking if you want to download the recommended extensions :).
+note: small transaction fee for every Gif added
 
+To view the demo: **[click here](https://the-simplefolio.netlify.app/)**
 
+---
+### Prerequisites 📋
+- Download [Phantom Wallet])(https://phantom.app/) in order to connect to app
 
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/courses/CObd6d35ce-3394-4bd8-977e-cbee82ae07a3) and link your Discord account so you can get access to helpful channels and your instructor!
+## Author
+- **Matthew Espinoza** - [https://github.com/mattespoz](https://github.com/mattespoz)
+
+## Acknowledgments 🎁
+I started this project through the [BuildSpace Web3 Program](https://buildspace.so/), and then customized and optimized it with additional features
