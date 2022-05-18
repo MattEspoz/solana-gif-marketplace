@@ -13,11 +13,11 @@
 
 note: small transaction fee for every Gif added
 
-To view the demo: **[click here](https://the-simplefolio.netlify.app/)**
+To view the demo: **[click here](https://the-simplefolio.netlify.app/](https://solana-gif-marketplace.vercel.app/)**
 
 ---
 ### Prerequisites 📋
-- Download [Phantom Wallet])(https://phantom.app/) in order to connect to app
+- Download [Phantom Wallet](https://phantom.app/) in order to connect to app
 
 ## Author
 - **Matthew Espinoza** - [https://github.com/mattespoz](https://github.com/mattespoz)
